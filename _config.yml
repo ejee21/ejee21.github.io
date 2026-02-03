@@ -1,12 +1,12 @@
-title: Elijah's Writeups & Notes
+title: root.red
 description: Personal security/research writeups, guides, and thoughts
-baseurl: ""           # Empty for root domain (root.red)
+baseurl: "" 
 url: "https://root.red"
 
-theme: minima
+remote_theme: jekyll/minima  # <-- This line instead of theme: minima
 
 minima:
-  skin: dark       # Or dark/auto for preference
+  skin: dark  # or auto
 
 header_pages:
   - about.md
@@ -17,3 +17,4 @@ show_excerpts: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme  # <-- Add this
