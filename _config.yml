@@ -1,0 +1,30 @@
+title: Elijah's Writeups & Notes
+description: Personal security/research writeups, guides, and thoughts
+baseurl: ""
+url: "https://root.red"
+
+theme: minima  
+
+minima:
+  skin: dark
+
+# Navigation links (like the example site's header)
+header_pages:
+  - about.md
+  - writeups.md   # create these pages next
+  - blog.md       # Or just use built-in posts list
+
+# Show excerpts on home
+show_excerpts: true
+
+# Optional: Author info
+author:
+  name: Elijah Elliott
+  email: "elijah@root.red"  # Optional
+
+# Plugins (GitHub Pages supports these)
+plugins:
+  - jekyll-feed   # For RSS
+  - jekyll-seo-tag  # Better SEO
+
+# Future-proof: If using Minima 3+, add social links etc. later
