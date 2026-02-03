@@ -2,6 +2,7 @@
 share: true
 layout: post
 title: HTB Dog Walkthrough
+permalink: /writeups/dog
 date: 2026-02-03 01:00:00 -0500
 categories:
   - hackthebox
