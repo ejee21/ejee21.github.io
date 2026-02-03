@@ -5,4 +5,5 @@ permalink: /writeups/
 ---
 Coming soon — my first security writeups and Obsidian exports will land here.
 
-- Example: [Active Directory Notes](/writeups/ad-enum.md) (placeholder)
+- [HTB Dog Walkthrough](/writeups/dog/)
+- [Active Directory Notes](/writeups/ad-enum.md)  # placeholder
